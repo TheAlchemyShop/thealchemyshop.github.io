@@ -1,4 +1,8 @@
 /* Base */
+.justify {
+  text-align: justify;
+}
+
 body {
   line-height: 1.7;
   color: #8c92a0;
@@ -21,7 +25,12 @@ a {
     text-decoration: none; }
 
 .text-black {
-  color: #000; }
+  color: #000;
+}
+
+.text-grey {
+  color: #333;
+}
 
 .site-wrap:before {
   -webkit-transition: .3s all ease-in-out;
